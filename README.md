@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matatabiii&layout=compact&theme=ayu-mirage
-)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matatabiii)]
-(https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matatabiii&layout=compact&theme=ayu-mirage" />
+  <img alt="github stats" height="275" src="https://github-readme-stats.vercel.app/api?username=matatabiii&theme=ayu-mirage&show_icons=true" />
+</p>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=matatabiii&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!--
 **matatabiii/matatabiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
