@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matatabiii&layout=compact&theme=ayu-mirage
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matatabiii)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **matatabiii/matatabiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
