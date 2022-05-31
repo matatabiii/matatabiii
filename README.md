@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <p> 
+  <img alt="" width="830" src="https://github-profile-trophy.vercel.app/?username=matatabiii&theme=onedark&column=7" />
+</p>
+
+<p> 
   <img alt="Top Langs" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matatabiii&layout=compact&theme=ayu-mirage" />
   <img alt="github stats" height="175" src="https://github-readme-stats.vercel.app/api?username=matatabiii&theme=ayu-mirage&show_icons=true" />
 </p>
 
 <p> 
-  <img alt="" width="820" src="https://github-profile-trophy.vercel.app/?username=matatabiii&theme=onedark&column=7" />
-</p>
-
-<p> 
-  <img alt="" width="820" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/0-profile-details.svg" />
+  <img alt="" width="830" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/0-profile-details.svg" />
 </p>
 
 <p> 
