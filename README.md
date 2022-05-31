@@ -14,13 +14,13 @@
 </p>
 
 <p> 
-  <img alt="Top Langs by Repo" height="410" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
-  <img alt="Top Langs by Commit" height="410" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
+  <img alt="Top Langs by Repo" width="410" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
+  <img alt="Top Langs by Commit" width="410" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
 </p>
 
 <p> 
-  <img alt="Top Langs by Repo" height="410" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/3-stats.svg" />
-  <img alt="Top Langs by Commit" height="410" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/4-productive-time.svg" />
+  <img alt="Top Langs by Repo" width="410" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/3-stats.svg" />
+  <img alt="Top Langs by Commit" width="410" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/4-productive-time.svg" />
 </p>
 
 <!--
