@@ -1,14 +1,27 @@
 ### Hi there 👋
 
-<p align="left"> 
-  <img alt="Top Langs" height="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matatabiii&layout=compact&theme=ayu-mirage" />
-  <img alt="github stats" height="275" src="https://github-readme-stats.vercel.app/api?username=matatabiii&theme=ayu-mirage&show_icons=true" />
+<p> 
+  <img alt="Top Langs" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matatabiii&layout=compact&theme=ayu-mirage" />
+  <img alt="github stats" height="175" src="https://github-readme-stats.vercel.app/api?username=matatabiii&theme=ayu-mirage&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=matatabiii&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-[![](https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p> 
+  <img alt="" width="820" src="https://github-profile-trophy.vercel.app/?username=matatabiii&theme=onedark&column=7" />
+</p>
+
+<p> 
+  <img alt="" width="820" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/0-profile-details.svg" />
+</p>
+
+<p> 
+  <img alt="Top Langs by Repo" height="410" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
+  <img alt="Top Langs by Commit" height="410" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
+</p>
+
+<p> 
+  <img alt="Top Langs by Repo" height="410" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/3-stats.svg" />
+  <img alt="Top Langs by Commit" height="410" src="https://raw.githubusercontent.com/matatabiii/matatabiii/main/profile-summary-card-output/dracula/4-productive-time.svg" />
+</p>
 
 <!--
 **matatabiii/matatabiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
